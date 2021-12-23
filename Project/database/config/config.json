@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "RoosterMusic",
-    "password": "UTNfra",
-    "database": "roostermusic",
-    "host": "127.0.0.1",
+    "username": "root",
+    "password": "roostermusic2021",
+    "database": "dev",
+    "host": "rooster-music.cwyejorsu0uw.us-west-2.rds.amazonaws.com",
     "dialect": "mysql",
     "port": "3306"
   },
