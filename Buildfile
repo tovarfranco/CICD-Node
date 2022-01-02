@@ -1,1 +1,0 @@
-install: cd Project && npm install
