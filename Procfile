@@ -1,1 +1,0 @@
-web: cd Project && npm start
